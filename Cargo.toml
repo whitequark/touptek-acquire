@@ -1,0 +1,8 @@
+[package]
+name = "touptek-acquire"
+version = "0.1.0"
+authors = ["whitequark <whitequark@whitequark.org>"]
+
+[dependencies]
+touptek = "1.1"
+byteorder = "0.4"
